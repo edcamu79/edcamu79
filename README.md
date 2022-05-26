@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @edcamu79
-- 👀 I’m interested in coding, AI, machinel earning, Cibersecurity
+- 👀 I’m interested in coding, AI, machine learning, Cibersecurity
 - 🌱 I’m currently learning phython
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me edcamu79@yahoo.com.mx
